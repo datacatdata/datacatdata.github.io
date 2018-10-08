@@ -9,7 +9,7 @@ tags: [Diplomacy, Borrell, El Confidencial]
 
 [El Confidencial reports](https://www.elconfidencial.com/espana/2018-10-07/el-dosier-anti-independencia-que-circula-por-la-ue-y-borrell-ya-ha-enviado-a-las-embajadas_1626530/) that Josep Borrell (Spanish Minister of Foreign Affairs) has forwarded to diplomatic posts a powerpoint presentation critical of the Catalan independence movement. <a href="{{site.url}}/pdfs/buenoarmijo.pdf">The document</a>, a 27 page powerpoint, compares the independence movement with Marine Le Pen's Front National and Brexit, points out Spain's high rankings in democratic indices, suggests that police violence against Catalan voters on October 1 2017 was fake news, and paints the independence movement as a political force driven by the rural and the wealthy.
 
-Though we do not know the full context under which the document's author, Antonio Bueno-Armijo, presented the powerpoint to the European External Action Service, the presentation's structure and content imply several factually incorrect and misleading arguments about the Catalan independence movement. In this article, we'll dive into five implicit lies in the anti-independence dossier.
+It has not been independently confirmed that the document is authentic, or that it was indeed shared by Borrell with the Spanish diplomatic corps. Since El Confidencial has a history of publishing [manipulative or false stories](https://www.elnacional.cat/ca/politica/institut-luther-king-desmentit-quim-torra_304911_102.html), we make no claims as to whether this document was actually authored by Antonio Bueno-Armijo, presented the powerpoint to the European External Action Service, or shared internally among the Spanish diplomatic corps. Nonetheless, since the document is receiving significant exposure in social media, it is worth exploring the presentation's structure and content, particularly insofar as they contain misleading information. In this article, we'll dive into 7 manipulations in the anti-independence dossier.
 
 # Manipulation 1: Police violence against voters on October 1 was "fake news"
 
@@ -88,7 +88,7 @@ The Catalan independence movement is, quantifiably, none of these three things.
 
 Data on attitudes toward immigration in Catalonia suggest that those in favor of independence are far less hostile to immigration than those in favor of union:
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/d.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/d.png" /></a></td>
   </tr>
@@ -98,16 +98,23 @@ Data on attitudes toward immigration in Catalonia suggest that those in favor of
 
 The attempt to associate the Catalan independence movement with right-wing movements in other parts of Europe is intentionally misleading. This tactic seeks to characterize Catalan independence as the ideological equivalent of right-wing reactionary movements. The data show the opposite: the independence movement is ideologically _to the left_ of the Spanish unionist movement, and is consistently more left-leaning than Spanish unionism in survey after survey:
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/b.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/b.png" /></a></td>
+  </tr>
+</table>
+
+As of the most recent data available (July 2018), support for independence was highest on the left. Support for union was highest on the right:
+
+<table style="width:100%">
+  <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/bb.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/bb.png" /></a></td>
   </tr>
 </table>
 
 Relative to the rest of Spain, Catalans are consistently more left-leaning:
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/z.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/z.png" /></a></td>
   </tr>
@@ -115,7 +122,7 @@ Relative to the rest of Spain, Catalans are consistently more left-leaning:
 
 Self-situated ideology on a left-right scale (as in the above charts) is potentially biased. But the "Catalan independence movement is right-wing" accusation also falls apart if you examine individual political policies. For example, relative to Catalan unionists, those in favor of independence are also more in favor of the government taking measures to reduce income inequality.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/a.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/a.png" /></a></td>
   </tr>
@@ -123,7 +130,7 @@ Self-situated ideology on a left-right scale (as in the above charts) is potenti
 
 In the same vein, if one examines negative attitudes toward homosexuality (a relatively good proxy for being "right-wing"), it is clear that those who are favorable to independence do not fit the "right-wing" category.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/f.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/f.png" /></a></td>
   </tr>
@@ -132,7 +139,7 @@ In the same vein, if one examines negative attitudes toward homosexuality (a rel
 
 Finally, we can examine levels of support of different politicians from people of different ideological backgrounds. The most well-known independence leader in Catalonia is Carles Puigdemont; the most well-known union leader in Catalonia is Ines Arrmiadas. Puigdemont receives high levels of support from the left, and low levels from the right; Arrimadas receives low levels of support from the left, and high levels from the right. The group in Catalonia which gives the highest levels of support to Arrimadas is the far-right.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/c.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/c.png" /></a></td>
   </tr>
@@ -142,7 +149,7 @@ Finally, we can examine levels of support of different politicians from people o
 
 The characterization of the Catalan independence movement as "anti-democratic" is strange. Among Catalans in favor of independence, 91% say that democracy is preferable to all other forms of government in all circumstances; this figure is only 77% among Catalans in favor of union with Spain.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/e.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/e.png" /></a></td>
   </tr>
@@ -164,7 +171,7 @@ The presentation implies that the Catalan independence movement is a nationalist
 Support for Brexit was positively correlated with age: the older one was, the more likely he/she voted in favor of Brexit. In Catalonia, support for independence takes on the opposite pattern:
 
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/h.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/h.png" /></a></td>
   </tr>
@@ -172,7 +179,7 @@ Support for Brexit was positively correlated with age: the older one was, the mo
 
 Support for Brexit was negatively correlated with education: the more educated one was, the less likely he/she voted in favor of education. Again, in Catalonia, support for independence takes on the opposite pattern as support for Brexit:
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/i.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/i.png" /></a></td>
   </tr>
@@ -184,7 +191,7 @@ Finally, support for Brexit was primarily driven by anti-immigrant attitudes (an
 
 The presentation contains a chart from El Pais which shows that more wealth is correlated with more support for Catalan independence.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><img src="{{site.baseurl}}/assets/img/powerpoint/8.png" /></td>
   </tr>
@@ -192,7 +199,7 @@ The presentation contains a chart from El Pais which shows that more wealth is c
 
 This is true: support for independence is associated with higher income levels. But as dissuasive rhetoric, it is relatively ineffective. Higher incomes associates with (a) higher access to information, (b) higher levels of education, (c) more engagement with what is going on in politics.
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/j.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/j.png" /></a></td>
   </tr>
@@ -204,17 +211,19 @@ The wealthy support Catalan independence more than the poor. But the wealthy als
 
 The presentation shows results from the December 21, 2017 elections in Catalonia to suggest that independence is a minority movement:
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><img src="{{site.baseurl}}/assets/img/powerpoint/9.png" /></td>
   </tr>
 </table>
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/xxx.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/xxx.png" /></a></td>
   </tr>
 </table>
+
+
 
 # Manipulation 7: The cities don't support independence
 
@@ -227,7 +236,7 @@ The presentation shows results from the December 21, 2017 elections in Catalonia
   </tr>
 </table>
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <td><a href="{{site.baseurl}}/assets/img/powerpoint/xxx.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/xxx.png" /></a></td>
   </tr>
