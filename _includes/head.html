@@ -15,7 +15,7 @@
 
 	{% if page.img %}
 	<meta name="twitter:card"  content="summary_large_image">
-	<meta name="twitter:image" content="{{ site.url }}{{ page.img }}">
+	<meta name="twitter:image" content="{{ "/assets/img/" | prepend: site.baseurl | append : page.img}}">
 	{% else %}
 	<meta name="twitter:card"  content="summary">
 	<meta name="twitter:image" content="{{ site.title_image }}">

@@ -27,7 +27,7 @@ Several slides show Spain's high rankings in freedom/democracy indices. These ar
   </tr>
 </table>
 
-But including the scores without any other information from these reports is **intentionally misleading.**
+But including the scores without any other information from these reports is **misleading.**
 
 ### Freedom House
 
