@@ -83,7 +83,7 @@ In the same vein, if one examines negative attitudes toward homosexuality (a rel
 <a href="{{site.baseurl}}/assets/img/powerpoint/f.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/f.png" /></a>
 
 
-Finally, we can examine levels of support of different politicians from people of different ideological backgrounds. The most well-known independence leader in Catalonia is Carles Puigdemont; the most well-known union leader in Catalonia is Ines Arrmiadas. Puigdemont receives high levels of support from the left, and low levels from the right; Arrimadas receives low levels of support from the left, and high levels from the right. The group in Catalonia which gives the highest levels of support to Arrimadas is the far-right.
+Finally, we can examine levels of support of different politicians from people of different ideological backgrounds. The most well-known independence leader in Catalonia is Carles Puigdemont; the most well-known union leader in Catalonia is Ines Arrimadas. Puigdemont receives high levels of support from the left, and low levels from the right; Arrimadas receives low levels of support from the left, and high levels from the right. The group in Catalonia which gives the highest levels of support to Arrimadas is the far-right.
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/c.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/c.png" /></a>
 
@@ -110,7 +110,7 @@ Support for Brexit was positively correlated with age: the older one was, the mo
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/h.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/h.png" /></a>
 
-Support for Brexit was negatively correlated with education: the more educated one was, the less likely he/she voted in favor of education. Again, in Catalonia, support for independence takes on the opposite pattern as support for Brexit:
+Support for Brexit was negatively correlated with education: the more educated one was, the less likely he/she voted in favor of Britain leaving the EU. Again, in Catalonia, support for independence takes on the opposite pattern as support for Brexit:
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/i.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/i.png" /></a>
 
