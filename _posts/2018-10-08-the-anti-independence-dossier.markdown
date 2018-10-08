@@ -173,18 +173,19 @@ One of the final slides of the presentation shows [a map originally features on 
 
 This map is factually accurate, but is misleading on the question of independence in that it shows only the most voted party (rather than the most voted "bloc"). Ciudadanos, a unionist party, was indeed the most voted in many urban areas, but this does not mean that those urban areas are predominantly anti-independence. In a parliamentary system, the party with the most votes is irrelevant if it cannot garner enough support from other parties (as is the case with Ciudadanos, which was unable to form a coalition government following the election).
 
-Let's examine the December 21, 2017 electoral results by "bloc".
+Let's examine the December 21, 2017 electoral results by "bloc". If we remove the CatComú/Podem(os) voters (of whom < 60% are opposed to independence), independence voters clearly outnumber unionist voters:
 
-<table style="width:100%">
-  <tr>
-    <td><img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></td>
-    <td><img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></td>
-  </tr>
-</table>
+<a href="{{site.baseurl}}/assets/img/powerpoint/party.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></a>
 
-To the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing by parties, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
+Additionally, even among parties whose stance on referendums/independence is more hard-line than Podemos, a significant portion of voters still favor independence.
+
+
+<a href="{{site.baseurl}}/assets/img/powerpoint/partyx.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/partyx.png"/></a>
+
+Nonetheless, to the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing by parties, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/map.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/map.png" /></a>
+
 
 This map, which gives a better idea of views on independence than the party-specific map, makes clear that Barcelona (like most of Catalonia) voted more for "independentist" parties than "constitutionalist" ones:
 
