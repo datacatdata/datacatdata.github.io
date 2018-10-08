@@ -158,6 +158,8 @@ Classifying "Podem/Podemos" votes as against independence is misleading. In the 
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/l.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/l.png" /></a>
 
+
+
 # Manipulation 6: Barcelona is not Catalonia
 
 One of the final slides of the presentation shows [a map originally features on eldiario.es](https://www.eldiario.es/politica/MAPA-Resultados-electorales-municipio_0_721277890.html) with the "most voted" party in each Catalan municipality in the December 21, 2017 elections.
@@ -170,6 +172,15 @@ One of the final slides of the presentation shows [a map originally features on 
 </table>
 
 This map is factually accurate, but is misleading on the question of independence in that it shows only the most voted party (rather than the most voted "bloc"). Ciudadanos, a unionist party, was indeed the most voted in many urban areas, but this does not mean that those urban areas are predominantly anti-independence. In a parliamentary system, the party with the most votes is irrelevant if it cannot garner enough support from other parties (as is the case with Ciudadanos, which was unable to form a coalition government following the election).
+
+Let's examine the December 21, 2017 electoral results by "bloc".
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></td>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></td>
+  </tr>
+</table>
 
 To the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing by parties, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
 
