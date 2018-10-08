@@ -212,3 +212,8 @@ Though the prevalence of "fake news" has certainly increased with the internet, 
 - Police used excessive violence on October 1st 2017.
 - Hundreds of Catalan citizens were injured.
 - Thousands of images and videos of that violence are real and have been verified.
+
+
+### Details
+
+This article was authored by Joe Brew ([@joethebrew](https://twitter.com/joethebrew)). All errors are his alone. The raw data used for the charts in this article are downloadable [here](http://ceo.gencat.cat/ca/barometre/matrius-fusionada-BOP/).
