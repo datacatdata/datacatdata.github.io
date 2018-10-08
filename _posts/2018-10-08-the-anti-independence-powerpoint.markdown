@@ -14,15 +14,6 @@ Though we do not know the full context under which the document's author, Antoni
 # Manipulation 1: Police violence against voters on October 1 was "fake news"
 
 
-<table style="border: 0.1px solid black">
-<tr>
-<td>
-<font size="5">Some images were fake. Most are real.</font>
-</td>
-</tr>
-</table>
-
-
 Several slides of the presentation show images of police violence overlapped by a scroll-with-wings icon to suggest that the images were false:
 
 <table style="width:100%">
@@ -77,3 +68,49 @@ For example, in [Freedom House's report on Spain](https://freedomhouse.org/repor
 
 [The Economist Intelligence Unit's 2017 report](https://pages.eiu.com/rs/753-RIQ-438/images/Democracy_Index_2017.pdf) on outlining their "Democracy Index" included the headline "Spain's democratic credentials suffer" as the third of its ten "highlights" of 2017. The report points out that Spain is "just above the threshold for full democracies" and that "the national government’s attempt to stop by force Catalonia’s illegal
 referendum on independence on October 1st and its repressive treatment of pro-independence politicians have put it at risk of becoming a 'flawed democracy'". Spain suffered the second largest decline in the democracy index score (first place was Malta).
+
+# Manipulation 3: Independence movement is like Le Pen / Front National
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/4.png" /></td>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/5.png" /></td>
+  </tr>
+</table>
+
+# Manipulation 4: Independence movement is like Brexit
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/6.png" /></td>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/7.png" /></td>
+  </tr>
+</table>
+
+
+# Manipulation 5: Independence movement is a movement of the elite/rich
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/8.png" /></td>
+  </tr>
+</table>
+
+
+# Manipulation 6: More people oppose independence than support it
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/9.png" /></td>
+  </tr>
+</table>
+
+
+# Manipulation 7: The cities don't support independence
+
+<table style="width:100%">
+  <tr>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/10.png" /></td>
+    <td><img src="{{site.baseurl}}/assets/img/powerpoint/11.png" /></td>
+  </tr>
+</table>
