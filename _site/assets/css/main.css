@@ -1,3 +1,16 @@
+/* Code for making images pop out upon hover
+*/
+img {
+    transition:transform 0.5s ease;
+}
+
+
+img:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
