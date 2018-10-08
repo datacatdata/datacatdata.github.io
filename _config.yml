@@ -1,4 +1,5 @@
 title: Catalunya en dades
+name: DATACAT
 description: > # this means to ignore newlines until "baseurl:"
   Periodisme de dades. La veritat és tossuda. Nosaltres també.
 permalink: ':title/'
