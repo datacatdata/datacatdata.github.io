@@ -17,7 +17,12 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
+        <div class="page-date"><span>{{page.author}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        {% if page.social-twitter %}
+          <a href="https://twitter.com/{{ page.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        {% else %}
+        {% endif %}
       </header>
       {{content | markdownify}}
       <div class="page-footer">

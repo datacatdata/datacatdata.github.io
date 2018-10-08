@@ -1,9 +1,11 @@
 ---
 layout: post
+author: Joe Brew
+social-twitter: joethebrew
 title: The 7 manipulations of the "anti-independence dossier"
 name: The 7 manipulations of the "anti-independence dossier"
 date: 2018-10-07 09:00:00 +0100
-description: El Confidencial reports that Josep Borrell, Spain's Minister of Foreign Affairs, has forwarded a powerpoint presentation in which the Catalan independence movement is compared with Brexit and Marine Le Pen to Spain's diplomatic posts, so that the presentation's content can be used in making arguments.
+description: A powerpoint presentation reportedly sent from Borrell to Spain's diplomatic corps is rife with manipulative comparisons and charts about the Catalan independence movement.
 img: powerpoint4.png
 tags: [Diplomacy, Borrell, El Confidencial]
 ---
