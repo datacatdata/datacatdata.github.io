@@ -9,7 +9,11 @@ img: powerpoint4.png
 tags: [Diplomacy, Borrell, El Confidencial]
 ---
 
+### The anti-independence powerpoint
+
 [El Confidencial reports](https://www.elconfidencial.com/espana/2018-10-07/el-dosier-anti-independencia-que-circula-por-la-ue-y-borrell-ya-ha-enviado-a-las-embajadas_1626530/) that Josep Borrell (Spanish Minister of Foreign Affairs) has forwarded to diplomatic posts a powerpoint presentation critical of the Catalan independence movement, with the intention of Spanish diplomats being able to use the document's arguments. <a href="{{site.url}}/pdfs/buenoarmijo.pdf">The document</a>, a 27 page presentation, compares the independence movement with Marine Le Pen's Front National and Brexit, points out Spain's high rankings in democratic indices, highlights episodes of fake news related to violence against Catalan voters on October 1 2017, and contains charts and maps showing the independence movement as a populist political force driven by the rural and the wealthy.
+
+### "The real enemy of Europe"
 
 The document was presented in a classroom session at the European Commission on September 28, 2018. A recording of the presentation is now hosted on the [EC website](https://webcast.ec.europa.eu/spain-is-not-so-different-the-constitutional-crisis-in-catalonia-and-the-rise-of-european-populism-september-28th-2018#). In the conclusion of the presentation, the presenter calls Catalan nationalism "one of the heads of this monster called nationalism" and "the real enemy of Europe". During the question-and-answer phase of the presentation, the speaker states that the Catalan independence drive is "morally" wrong. When asked about police violence against Catalan voters, "it has to happen, because this is how democracy works... decisions adopted by the judiciary as a last resort has [sic] to be implemented".
 
@@ -21,7 +25,7 @@ Since the document is receiving significant exposure in social media, and since 
 
 # Manipulation 1: International democracy watchdogs approve of Spain's handling of Catalonia
 
-## Truth: These organizations point out Spain's poor handling of the Catalan crisis
+## Truth: These organizations criticize Spain's poor handling of the Catalan crisis
 
 Several slides show Spain's high rankings in freedom/democracy indices. These are true: Spain is considered by "Freedom House" as a "free" country, and the Economist Intelligence Unit ranks Spain as a "Full democracy" with scores similar to other Western European countries:
 
@@ -45,7 +49,7 @@ referendum on independence on October 1st and its repressive treatment of pro-in
 
 # Manipulation 2: The independence movement is like Le Pen / Front National
 
-## Truth: The independence movement shares almost no political similarities with Le Pen
+## Truth: The independence movement shares almost no ideological similarities with Le Pen
 
 The presenter says that "we can use a similar approach to explain similar events in similar countries" before making a comparison between "this movement in Catalonia and nationalist movements taking place in other member States in Europe".
 
@@ -109,7 +113,7 @@ The presenter clumps the Catalan independence movement with European nationalist
 
 # Manipulation 3: Independence movement is like Brexit
 
-## Truth: The independence movement
+## Truth: The independence movement shares almost no ideological similarities with Brexit
 
 The presentation implies that the Catalan independence movement is a nationalist movement of the same nature as the British nationalist movement which drove Brexit to victory, since both show a rural-urban divide:
 
@@ -135,6 +139,8 @@ Finally, support for Brexit was primarily driven by anti-immigrant attitudes (an
 
 # Manipulation 4: Independence is undesirable because it's a movement of the rich
 
+### Truth: This is true, but income correlates with education, access to information, and more awareness of politics
+
 The presentation contains a chart from El País which shows that more wealth is correlated with more support for Catalan independence.
 
 <table style="width:100%">
@@ -154,6 +160,8 @@ A more relevant indicator than wealth, perhaps, would have been levels of inform
 <a href="{{site.baseurl}}/assets/img/powerpoint/g.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/g.png" /></a>
 
 # Manipulation 5: More people oppose independence than support it
+
+### Truth: More people support independence than oppose it
 
 The presentation shows results from the December 21, 2017 elections in Catalonia to suggest that independence is a minority movement:
 
@@ -182,8 +190,12 @@ The presenter calls Catalonia a "very divided society". This is true insofar as 
 1. That a binding referendum is the best solution to the current political crisis ([78.7%](https://www.elperiodico.com/es/politica/20180422/encuesta-cataluna-referendum-independencia-6774152)).
 2. That Spain's pre-trial imprisonment of independence leaders is wrong ([77%](https://www.publico.es/politica/catalunya-80-catalanes-rechazan-prision-preventiva-politicos-soberanistas.html)).
 
+Finally, [poll after poll](https://twitter.com/joethebrew/status/1049417804754153472) show that more Catalans favor independence than oppose it.
+
 
 # Manipulation 6: Barcelona is not Catalonia
+
+### Truth: Barcelona is Catalonia's capital and is not electorally dissimilar to the rest of the country
 
 One of the final slides of the presentation shows [a map originally features on eldiario.es](https://www.eldiario.es/politica/MAPA-Resultados-electorales-municipio_0_721277890.html) with the "most voted" party in each Catalan municipality in the December 21, 2017 elections.
 
@@ -215,7 +227,9 @@ This map, which gives a better idea of views on independence than the party-spec
 
 
 
-# Manipulation 7: Police violence against voters on October 1 was "fake news"
+# Manipulation 7: Police violence against voters on October 1 may have been "fake news"
+
+### Police violence against voters occurred in unprecedented levels for modern Europe and has been rigorously documented
 
 
 Several slides of the presentation show images of police violence overlapped by a scroll-with-wings icon to show which images were false:
