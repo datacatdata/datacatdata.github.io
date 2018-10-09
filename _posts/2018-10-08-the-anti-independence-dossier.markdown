@@ -139,7 +139,7 @@ Finally, support for Brexit was primarily driven by anti-immigrant attitudes (an
 
 # Manipulation 4: Independence is undesirable because it's a movement of the rich
 
-### Truth: This is true, but income correlates with education, access to information, and more awareness of politics
+## Truth: The wealthy are more pro-independence, but income also correlates with education, access to information, left-leaning political ideology, and more awareness of politics
 
 The presentation contains a chart from El País which shows that more wealth is correlated with more support for Catalan independence.
 
@@ -161,7 +161,7 @@ A more relevant indicator than wealth, perhaps, would have been levels of inform
 
 # Manipulation 5: More people oppose independence than support it
 
-### Truth: More people support independence than oppose it
+## Truth: More people support independence than oppose it
 
 The presentation shows results from the December 21, 2017 elections in Catalonia to suggest that independence is a minority movement:
 
@@ -195,7 +195,7 @@ Finally, [poll after poll](https://twitter.com/joethebrew/status/104941780475415
 
 # Manipulation 6: Barcelona is not Catalonia
 
-### Truth: Barcelona is Catalonia's capital and is not electorally dissimilar to the rest of the country
+## Truth: Barcelona is Catalonia's capital and is not electorally dissimilar to the rest of the country
 
 One of the final slides of the presentation shows [a map originally features on eldiario.es](https://www.eldiario.es/politica/MAPA-Resultados-electorales-municipio_0_721277890.html) with the "most voted" party in each Catalan municipality in the December 21, 2017 elections.
 
@@ -229,7 +229,7 @@ This map, which gives a better idea of views on independence than the party-spec
 
 # Manipulation 7: Police violence against voters on October 1 may have been "fake news"
 
-### Police violence against voters occurred in unprecedented levels for modern Europe and has been rigorously documented
+## Police violence against voters occurred in unprecedented levels for modern Europe and has been rigorously documented
 
 
 Several slides of the presentation show images of police violence overlapped by a scroll-with-wings icon to show which images were false:
