@@ -21,9 +21,9 @@ The entire presentation is viewable below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbBkqxT6bv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Since the document is receiving significant exposure in social media, and since it was presented at the EC to Europeans who may not have much knowledge of Catalonia, it is worth exploring the presentation's content, particularly insofar as it contains misleading and incomplete information. In this article, we'll dive into 7 manipulations in the "anti-independence dossier".
+Since the document is receiving significant exposure in social media, and since it was presented at the EC to people who may not have much knowledge of the current situation in Catalonia, it is worth exploring the presentation's content, particularly insofar as it contains misleading and incomplete information. In this article, we'll dive into 7 manipulations in the "anti-independence dossier" with the aim of providing a more complete and accurate picture of reality in Catalonia.
 
-# Manipulation 1: International democracy watchdogs approve of Spain's handling of Catalonia
+# Manipulation 1: International democracy watchdogs approve of Spain
 
 ## Truth: These organizations criticize Spain's poor handling of the Catalan crisis
 
@@ -36,7 +36,7 @@ Several slides show Spain's high rankings in freedom/democracy indices. These ar
   </tr>
 </table>
 
-The presenter points out that Spain is considered to be democratic by both organizations, based on their scores. But they author makes no mention in the presentation of the reports which accompanied the publication of these scores. Including the scores without any other information from these reports is **misleading.**
+The presenter points out that Spain is considered to be democratic by both organizations, based on their scores. But the author makes no mention in the presentation of the reports which accompanied the publication of these scores. Including the scores, in a presentation on Catalonia, without any other information from these reports is **misleading** since Catalonia was mentioned in both organizations' annual reports this year.
 
 ### Freedom House
 
@@ -60,7 +60,7 @@ The presenter says that "we can use a similar approach to explain similar events
   </tr>
 </table>
 
-The presenter suggests that the Catalan independence movement is similar to populist movements like the Italian Liga Norte and the French "Front National". These movements are explicitly:
+The presenter suggests that the Catalan independence movement is similar to populist movements like the Italian Liga Norte and the French "Front National". However, the movements he mentions are explicitly:
 
 - Anti-immigrant
 - Right-wing
@@ -69,13 +69,13 @@ The presenter suggests that the Catalan independence movement is similar to popu
 The Catalan independence movement is, quantifiably, none of these three things.
 
 
-### Anti-immigrant
+### The Catalan independence movement is not anti-immigrant
 
-Data on attitudes toward immigration in Catalonia suggest that those in favor of independence are far less hostile to immigration than those in favor of union:
+Data on attitudes toward immigration in Catalonia suggest that those in favor of independence are far less hostile to immigration than those in favor of union. The percentage of Catalans who "strongly agree" that "it no longer feels like home" due to so much immigration is twice as high among unionists as independentists:
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/d.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/d.png"/></a>
 
-### Right-wing
+### The Catalan independence movement is not right-wing
 
 The attempt to associate the Catalan independence movement with right-wing movements in other parts of Europe is intentionally misleading. This tactic seeks to characterize Catalan independence as the ideological equivalent of right-wing reactionary movements. The data show the opposite: the independence movement is ideologically _to the left_ of the Spanish unionist movement, and is consistently more left-leaning than Spanish unionism in survey after survey:
 
@@ -85,13 +85,20 @@ As of the most recent data available (July 2018), support for independence was h
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/bb.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/bb.png" /></a>
 
+Additionally, the percentage of people who self-classify as far-right is higher in almost every other region of Spain than in Catalonia:
+
+<a href="{{site.baseurl}}/assets/img/powerpoint/aa.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/aa.png" /></a>
+
+
+
 Relative to the rest of Spain, Catalans are consistently more left-leaning:
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/z.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/z.png" /></a>
 
-Self-situated ideology on a left-right scale (as in the above charts) is potentially biased. But the "Catalan independence movement is right-wing" accusation also falls apart if you examine individual political policies. For example, relative to Catalan unionists, those in favor of independence are also more in favor of the government taking measures to reduce income inequality.
+Self-situated ideology on a left-right scale (as in the above charts) is potentially biased. But the implication that the Catalan independence movement is right-wino also falls apart if you examine individual political policies. For example, relative to Catalan unionists, those in favor of independence are also more in favor of the government taking measures to reduce income inequality.
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/a.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/a.png" /></a>
+
 
 The above fact contradicts the presenter's claim that "every nationalist movement is based on the ideas of selfishness and insolidarity" (31:50 in video).
 
@@ -104,7 +111,7 @@ Finally, we can examine levels of support of different politicians from people o
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/c.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/c.png" /></a>
 
-### Anti-democratic
+### The Catalan independence movement is not anti-democratic
 
 The presenter clumps the Catalan independence movement with European nationalist movements as "the enemy of democracy". The comparison of the Catalan independence movement with anti-democratic, authoritarian populists movements is questionable. Among Catalans in favor of independence, 91% say that democracy is preferable to all other forms of government in all circumstances; this figure is only 77% among Catalans in favor of union with Spain.
 
@@ -139,7 +146,7 @@ Finally, support for Brexit was primarily driven by anti-immigrant attitudes (an
 
 # Manipulation 4: Independence is undesirable because it's a movement of the rich
 
-## Truth: The wealthy are more pro-independence, but income also correlates with education, access to information, left-leaning political ideology, and more awareness of politics
+## Truth: The wealthy are more pro-independence, but income also correlates with education, access to information, non-authoritarian political ideology, and more awareness of politics
 
 The presentation contains a chart from El País which shows that more wealth is correlated with more support for Catalan independence.
 
@@ -158,6 +165,8 @@ The wealthy support Catalan independence more than the poor. But the wealthy als
 A more relevant indicator than wealth, perhaps, would have been levels of information. Among Catalans, those who consider themselves well informed have higher levels of support for independence. The greatest levels of opposition to independence come from those who consider themselves not at all informed about what is happening in politics:
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/g.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/g.png" /></a>
+
+The simultaneous characterization of the Catalan independence movement as "populist" and "elitist" is both incoherent and not supported by any data on the subject.
 
 # Manipulation 5: More people oppose independence than support it
 
@@ -190,12 +199,12 @@ The presenter calls Catalonia a "very divided society". This is true insofar as 
 1. That a binding referendum is the best solution to the current political crisis ([78.7%](https://www.elperiodico.com/es/politica/20180422/encuesta-cataluna-referendum-independencia-6774152)).
 2. That Spain's pre-trial imprisonment of independence leaders is wrong ([77%](https://www.publico.es/politica/catalunya-80-catalanes-rechazan-prision-preventiva-politicos-soberanistas.html)).
 
-Finally, [poll after poll](https://twitter.com/joethebrew/status/1049417804754153472) show that more Catalans favor independence than oppose it.
+Finally, [rigorous polling](https://twitter.com/joethebrew/status/1049417804754153472) shows that more Catalans favor independence than oppose it.
 
 
 # Manipulation 6: Barcelona is not Catalonia
 
-## Truth: Barcelona is Catalonia's capital and is not electorally dissimilar to the rest of the country
+## Truth: Barcelona is Catalonia's capital and is not that electorally dissimilar to the rest of Catalonia
 
 One of the final slides of the presentation shows [a map originally features on eldiario.es](https://www.eldiario.es/politica/MAPA-Resultados-electorales-municipio_0_721277890.html) with the "most voted" party in each Catalan municipality in the December 21, 2017 elections.
 
@@ -216,7 +225,7 @@ Additionally, even among parties whose stance on referendums/independence is mor
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/partyx.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/partyx.png"/></a>
 
-Nonetheless, to the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing by parties, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
+Nonetheless, to the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing results by party, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/map.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/map.png" /></a>
 
@@ -225,6 +234,7 @@ This map, which gives a better idea of views on independence than the party-spec
 
 <a href="{{site.baseurl}}/assets/img/powerpoint/map2.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/map2.png" /></a>
 
+There indeed exists an urban periphery around Barcelona which is predominantly unionists, but asserting that "Barcelona is not Catalonia" in terms of the question of independence is misleading.
 
 
 # Manipulation 7: Police violence against voters on October 1 may have been "fake news"
@@ -252,18 +262,15 @@ The "fake news" angle has more recently employed by Spanish government spokesper
 
 It is true that some images showing police violence and victims in October 2017 were false, manipulated, or simply from other events. These images were widely shared in some cases, but also quickly discredited.
 
-True occurrences of police violence have been [meticulously documented and fact-checked](https://catmemoria.cat/en/), and reported on by [international media](https://edition.cnn.com/2017/10/01/europe/catalonia-spain-independence-referendum-vote/index.html). Police body-camera footage has been released as well:
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Subtitled in English: Spanish police storming voting sites last Oct in an attempt to prevent Catalonia from voting on its independence.<br><br>Many of the leaders who arranged the vote are in jail.<br>The police beating people in these videos are not.<br><br>EU Mediation needed now.<a href="https://twitter.com/donaldtusk?ref_src=twsrc%5Etfw">@donaldtusk</a> <a href="https://t.co/WbjtaEydBs">pic.twitter.com/WbjtaEydBs</a></p>&mdash; Joe Brew (@joethebrew) <a href="https://twitter.com/joethebrew/status/1044628556066762752?ref_src=twsrc%5Etfw">25 de setembre de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+True occurrences of police violence have been [meticulously documented and fact-checked](https://catmemoria.cat/en/), and reported on by [international media](https://edition.cnn.com/2017/10/01/europe/catalonia-spain-independence-referendum-vote/index.html). Police [body-camera footage](https://twitter.com/joethebrew/status/1044628556066762752) has been released as well.
 
 Though the prevalence of "fake news" has certainly increased with the internet, the facts remain:
 
 - Police used excessive violence on October 1st 2017.
-- Hundreds of Catalan citizens were injured.
+- Hundreds of Catalan citizens [were injured](http://premsa.gencat.cat/pres_fsvp/docs/2017/10/20/11/15/232799c8-755f-4810-ba56-0a5bbb78609c.pdf) by police.
 - Thousands of images and videos of that violence are real and have been verified.
 
 
 ### Details
 
-This article was authored by Joe Brew ([@joethebrew](https://twitter.com/joethebrew)). All errors are his alone. The raw data used for the charts in this article are downloadable [here](http://ceo.gencat.cat/ca/barometre/matrius-fusionada-BOP/).
+This article was authored by Joe Brew ([@joethebrew](https://twitter.com/joethebrew)). Any errors are his alone. The raw data used for the charts in this article are publicly available [here](http://ceo.gencat.cat/ca/barometre/matrius-fusionada-BOP/).
