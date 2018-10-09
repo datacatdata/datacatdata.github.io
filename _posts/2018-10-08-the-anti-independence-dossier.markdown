@@ -2,7 +2,7 @@
 layout: post
 author: Joe Brew
 social-twitter: joethebrew
-title: The 7 manipulations of the anti-independence dossier
+title: The 8 manipulations of the anti-independence dossier
 date: 2018-10-07 09:00:00 +0100
 description: A powerpoint presentation reportedly sent from Borrell to Spain's diplomatic corps is rife with manipulative comparisons and charts about the Catalan independence movement.
 img: powerpoint4.png
@@ -21,7 +21,7 @@ The entire presentation is viewable below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbBkqxT6bv8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Since the document is receiving significant exposure in social media, and since it was presented at the EC to people who may not have much knowledge of the current situation in Catalonia, it is worth exploring the presentation's content, particularly insofar as it contains misleading and incomplete information. In this article, we'll dive into 7 manipulations in the "anti-independence dossier" with the aim of providing a more complete and accurate picture of reality in Catalonia.
+Since the document is receiving significant exposure in social media, and since it was presented at the EC to people who may not have much knowledge of the current situation in Catalonia, it is worth exploring the presentation's content, particularly insofar as it contains misleading and incomplete information. In this article, we'll dive into 8 manipulations in the "anti-independence dossier" with the aim of providing a more complete and accurate picture of reality in Catalonia.
 
 # Manipulation 1: International democracy watchdogs approve of Spain
 
@@ -270,6 +270,23 @@ Though the prevalence of "fake news" has certainly increased with the internet, 
 - Police used excessive violence on October 1st 2017.
 - Hundreds of Catalan citizens [were injured](http://premsa.gencat.cat/pres_fsvp/docs/2017/10/20/11/15/232799c8-755f-4810-ba56-0a5bbb78609c.pdf) by police.
 - Thousands of images and videos of that violence are real and have been verified.
+
+# Manipulation 8: Independence of Catalonia is "nationalism" but union with Spain isn't
+
+## Truth: There is nothing inherently "nationalistic" about wanting to be governed by one state or another
+
+The presenter concludes the presentation by saying that the referendum of last October was "just one of the heads of this monster we call nationalism". He goes on to call nationalism the "main enemy of Europe" and says that "we need to fight him [sic]":
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJLrYzQz_kA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+But clumping the Catalan independence movement into the violent, exclusionary nationalisms which brought Europe to war in the 20th century is misleading. After all, according to survey data, Catalan independentists are overwhelmingly pro-EU, pro-immigration and liberal. Like Ireland, Denmark, Slovakia, Switzerland, and Austria, Catalonia is a small country with unique traditions and language in which the majority of people want to govern themselves.
+
+<a href="{{site.baseurl}}/assets/img/powerpoint/mappy.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/mappy.png" /></a>
+
+After the presentation, during the question-and-answer section, the speaker says that some ideas (referring to nationalism) are "morally condemnable" and "morally bad". It is strange to argue that wanting independence and seeking it democratically constitutes "morally condemnable" nationalism but preventing people from governing themselves how they wish - ie, exercising the right to self-determination - does not.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aErc6RG8wek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 ### Details
