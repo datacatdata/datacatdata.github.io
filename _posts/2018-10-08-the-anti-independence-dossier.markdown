@@ -258,6 +258,7 @@ The implicit argument is that since _some_ of the images showing police violence
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
 The "fake news" angle has more recently employed by Spanish government spokesperson Isabel Celaá, who suggested that ["many of the images"](https://youtu.be/Uotxawat8pE) from the October 1 referendum were fake, and that the police acted in "proportionality" with the exception of very few cases. It's essentially a  [Trumpian](https://www.theguardian.com/books/2018/jul/14/the-death-of-truth-how-we-gave-up-on-facts-and-ended-up-with-trump) tactic: deflect attention from a scandal by questioning the evidence of the scandal.
 
 It is true that some images showing police violence and victims in October 2017 were false, manipulated, or simply from other events. These images were widely shared in some cases, but also quickly discredited.
