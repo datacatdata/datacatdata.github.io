@@ -73,49 +73,49 @@ The Catalan independence movement is, quantifiably, none of these three things.
 
 Data on attitudes toward immigration in Catalonia suggest that those in favor of independence are far less hostile to immigration than those in favor of union. The percentage of Catalans who "strongly agree" that "it no longer feels like home" due to so much immigration is twice as high among unionists as independentists:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/d.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/d.png"/></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/d.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/d.png"/></a>
 
 ### The Catalan independence movement is not right-wing
 
 The attempt to associate the Catalan independence movement with right-wing movements in other parts of Europe is intentionally misleading. This tactic seeks to characterize Catalan independence as the ideological equivalent of right-wing reactionary movements. The data show the opposite: the independence movement is ideologically _to the left_ of the Spanish unionist movement, and is consistently more left-leaning than Spanish unionism in survey after survey:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/b.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/b.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/b.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/b.png" /></a>
 
 As of the most recent data available (July 2018), support for independence was highest on the left. Support for union with Spain was highest on the right:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/bb.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/bb.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/bb.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/bb.png" /></a>
 
 Additionally, the percentage of people who self-classify as far-right is higher in almost every other region of Spain than in Catalonia:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/aa.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/aa.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/aa.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/aa.png" /></a>
 
 
 
 Relative to the rest of Spain, Catalans are consistently more left-leaning:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/z.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/z.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/z.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/z.png" /></a>
 
 Self-situated ideology on a left-right scale (as in the above charts) is potentially biased. But the implication that the Catalan independence movement is right-wino also falls apart if you examine individual political policies. For example, relative to Catalan unionists, those in favor of independence are also more in favor of the government taking measures to reduce income inequality.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/a.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/a.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/a.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/a.png" /></a>
 
 
 The above fact contradicts the presenter's claim that "every nationalist movement is based on the ideas of selfishness and insolidarity" (31:50 in video).
 
 In the same vein, if one examines negative attitudes toward homosexuality (a relatively good proxy for being "right-wing"), it is clear that those who are favorable to independence do not fit the "right-wing" category.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/f.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/f.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/f.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/f.png" /></a>
 
 
 Finally, we can examine levels of support of different politicians from people of different ideological backgrounds. The most well-known independence leader in Catalonia is Carles Puigdemont; the most well-known union leader in Catalonia is Ines Arrimadas. Puigdemont receives high levels of support from the left, and low levels from the right; Arrimadas receives low levels of support from the left, and high levels from the right. The group in Catalonia which gives the highest levels of support to Arrimadas is the far-right.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/c.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/c.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/c.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/c.png" /></a>
 
 ### The Catalan independence movement is not anti-democratic
 
 The presenter clumps the Catalan independence movement with European nationalist movements as "the enemy of democracy". The comparison of the Catalan independence movement with anti-democratic, authoritarian populists movements is questionable. Among Catalans in favor of independence, 91% say that democracy is preferable to all other forms of government in all circumstances; this figure is only 77% among Catalans in favor of union with Spain.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/e.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/e.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/e.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/e.png" /></a>
 
 
 # Manipulation 3: Independence movement is like Brexit
@@ -136,11 +136,11 @@ But the rural-urban divide is the only commonality - on all other metrics, Brexi
 Support for Brexit was positively correlated with age: the older one was, the more likely he/she voted in favor of Brexit. In Catalonia, support for independence takes on the opposite pattern:
 
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/h.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/h.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/h.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/h.png" /></a>
 
 Support for Brexit was negatively correlated with education: the more educated one was, the less likely he/she voted in favor of Britain leaving the EU. Again, in Catalonia, support for independence takes on the opposite pattern as support for Brexit:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/i.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/i.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/i.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/i.png" /></a>
 
 Finally, support for Brexit was primarily driven by anti-immigrant attitudes (and as mentioned in the previous section, those in favor of independence are more favorable to immigration than those opposed to independence).
 
@@ -158,13 +158,13 @@ The presentation contains a chart from El País which shows that more wealth is 
 
 This is true: support for independence is associated with higher income levels. But as dissuasive rhetoric, it should be relatively ineffective. Higher incomes associates with (a) higher access to information, (b) higher levels of education, (c) more engagement with what is going on in politics.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/j.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/j.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/j.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/j.png" /></a>
 
 The wealthy support Catalan independence more than the poor. But the wealthy also opposed Brexit more than the poor and opposed Trump more than the poor. Those with higher income consistently vote for more open immigration policies and are less euro-skeptic.
 
 A more relevant indicator than wealth, perhaps, would have been levels of information. Among Catalans, those who consider themselves well informed have higher levels of support for independence. The greatest levels of opposition to independence come from those who consider themselves not at all informed about what is happening in politics:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/g.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/g.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/g.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/g.png" /></a>
 
 The simultaneous characterization of the Catalan independence movement as "populist" and "elitist" is both incoherent and not supported by any data on the subject.
 
@@ -176,7 +176,7 @@ The presentation shows results from the December 21, 2017 elections in Catalonia
 
 <table style="width:100%">
   <tr>
-    <td><img src="{{site.baseurl}}/assets/img/powerpoint/9.png" /></td>
+    <td><img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/9.png" /></td>
   </tr>
 </table>
 
@@ -188,11 +188,11 @@ Let's go into more detail.
 
 If you ask Catalans directly their views on independence, as has been done in surveys consistently and uniformly over the last 4 years, more say they are in favor than against:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/k.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/k.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/k.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/k.png" /></a>
 
 Classifying "Podem/Podemos" votes as against independence is misleading. In the most recent surveys, only 56-57% of Podem voters are opposed to independence, and more than one third are explicitly for it.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/l.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/l.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/l.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/l.png" /></a>
 
 The presenter calls Catalonia a "very divided society". This is true insofar as there is ideological diversity and differences of opinion regarding independence. However, he fails to mention that there are very high levels of agreement in Catalonia on two issues:
 
@@ -219,20 +219,20 @@ This map is factually accurate, but is misleading on the question of independenc
 
 Let's examine the December 21, 2017 electoral results by "bloc" (pro vs. anti-independence). If we remove the CatComú/Podem(os) voters (of whom < 60% are opposed to independence), independence voters clearly outnumber unionist voters:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/party.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/party.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/party.png" /></a>
 
 Additionally, even among parties whose stance on referendums/independence is more hard-line than Podemos, a significant portion of voters from unionist parties still favor independence.
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/partyx.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/partyx.png"/></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/partyx.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/partyx.png"/></a>
 
 Nonetheless, to the extent that the map's purpose was to show differences in views on independence by geography, a less manipulative map would have been the one [published by elmundo.es](http://www.elmundo.es/grafico/cataluna/2017/12/21/5a3bbcd7468aeb2b4a8b45af.html). Rather than showing results by party, this map more accurately shows by "blocs", and correctly excludes CatenComú-Podem (since the party is pro-referendum, anti-independence, and many of its voters are pro-independence; see previous section):
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/map.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/map.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/map.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/map.png" /></a>
 
 
 This map, which gives a better idea of views on independence than the party-specific map, makes clear that Barcelona (like most of Catalonia) voted more for "independentist" parties than "constitutionalist" ones:
 
-<a href="{{site.baseurl}}/assets/img/powerpoint/map2.png"> <img src="{{site.baseurl}}/assets/img/powerpoint/map2.png" /></a>
+<a href="{{site.baseurl}}/assets/img/powerpoint/map2.png"> <img class="halfsize" src="{{site.baseurl}}/assets/img/powerpoint/map2.png" /></a>
 
 There indeed exists an urban periphery around Barcelona which is predominantly unionists, but asserting that "Barcelona is not Catalonia" in terms of the question of independence is misleading.
 
