@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/presumption-of-innocence/</loc>
-<lastmod>2019-02-14T13:45:00+05:45</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/misc/2018-10-08-the-anti-independence-dossier/</loc>
 </url>
 <url>
